@@ -1,7 +1,10 @@
 
 I am now a postdoct at [USTC](https://en.ustc.edu.cn/)
 
-### Contact
+<br> 
+<br> 
+
+## Contact
 
 **Address:**
 <br> 
@@ -17,11 +20,13 @@ huhaigang at ustc.edu.cn
 <br> 
 huhaigang_phy at 163.com
 
-### Research
-
-**Current interest:**
 <br> 
-non-commutative algebraic geometry, Lie theory \[ \]
+
+## Research
+
+**Current interests:**
+<br> 
+non-commutative algebraic geometry, Lie theory 
 
 **Papers:**
 <br> 
@@ -31,7 +36,9 @@ non-commutative algebraic geometry, Lie theory \[ \]
 4. Pseudo-stronlgy graded rings associated to Ore sets, _j.w._ Ji-Wei He &nbsp; \[[Journal](https://www.tandfonline.com/doi/abs/10.1080/00927872.2021.1959599) 2022]
 5. Hopf dense Galois extensions over a ring, _j.w._ Ji-Wei He &nbsp; \[[Journal](http://sxzz.whu.edu.cn/sxzz/ch/reader/create_pdf.aspx?file_no=20200208&year_id=2020&quarter_id=2&falg=1) 2020\]
 
-**About me**
+<br> 
+
+## About me
 
 I obtained my master degree at [Hangzhou Normal University](https://english.hznu.edu.cn/) under the supervision of _prof._ [Ji-Wei He](https://sxxy.hznu.edu.cn/c/2021-08-11/2574028.shtml)
 <br> 
