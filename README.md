@@ -44,4 +44,4 @@ I obtained my master degree at [Hangzhou Normal University](https://english.hznu
 <br> 
 and my PhD at [Shizuoka University](https://www.shizuoka.ac.jp/english/) under the supervision of _prof._ [Izuru Mori](https://tdb.shizuoka.ac.jp/RDB/public/Default2.aspx?id=11062&l=1)
 
-My name in  Chinese: 胡 &nbsp; 海刚
+My name in  Chinese: 胡 海刚
