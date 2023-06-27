@@ -1,11 +1,15 @@
 title: Haigang Hu
-
+author:
+  name: Contact me
+  email: huhaigang_phy@163.com
 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   This homepage is still under construction :)
+
+  Updated on June 27, 2023
 
 # Build settings
 
