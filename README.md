@@ -30,8 +30,8 @@ compact Lie groups
 <br> 
 Room 508, Dikong Building <br> 
 School of Mathematical Sciences <br> 
-University of Science and Technology of China (USTC) <br> 
-Hefei, 230026, Anhui Province <br> 
+University of Science and Technology of China <br> 
+Hefei 230026 Anhui <br> 
 P.R.China
 
 **Email:**
